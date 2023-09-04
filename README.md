@@ -1,2 +1,1 @@
-# house-price-listing-web-scrapper
-house-price-listing-web-scrapper
+# House Price Listing Web Scrapper using BeautifulSoup and Python
